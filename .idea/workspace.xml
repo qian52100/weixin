@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bb1d35b-be0d-4b3b-a8ca-92cc9a81eee1" name="Default Changelist" comment="" />
+    <list default="true" id="8bb1d35b-be0d-4b3b-a8ca-92cc9a81eee1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/get_access_key.php" beforeDir="false" afterPath="$PROJECT_DIR$/get_access_key.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -63,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582021645358</updated>
       <workItem from="1582021646661" duration="6174000" />
-      <workItem from="1582072045455" duration="2074000" />
+      <workItem from="1582072045455" duration="2478000" />
     </task>
     <servers />
   </component>
